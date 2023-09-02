@@ -1,0 +1,12 @@
+1. No tener modificaciones en el proyecto local
+
+2.Moverte a la rama main
+
+git checkout main
+
+3.Bajar la ultima version del proyecto
+
+git pull origin main
+
+4.Crear nueva rama para tu Issue
+git checkout -b features/nuevo-issue
