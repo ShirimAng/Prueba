@@ -1,0 +1,15 @@
+1.Guardar todos tus cambios
+git add -A
+
+2.Confirmar todos tus cambio
+git commit -m "Terminé mi issue, siuuu"
+
+3.Subir todos tus cambios
+git push origin features/nuevo-issue
+
+4.Crear pull request en github
+4.1. En la descripción poner:
+
+      `resolve #ISSUE_NUMBER`
+
+   ISSUE_NUMBER: el issue correspondiente a tu rama
