@@ -10,6 +10,6 @@ git push origin features/nuevo-issue
 4.Crear pull request en github
 4.1. En la descripción poner:
 
-      `resolve #ISSUE_NUMBER`
+      `resolve #ISSUE_NUMBERç
 
    ISSUE_NUMBER: el issue correspondiente a tu rama
